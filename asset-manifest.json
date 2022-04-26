@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4630ee32.css",
+    "main.js": "./static/js/main.bb5519d1.js",
+    "static/js/787.8e48d1dc.chunk.js": "./static/js/787.8e48d1dc.chunk.js",
+    "static/media/img-6.jpg": "./static/media/img-6.180f5a374e0dc5cca6f1.jpg",
+    "static/media/img-1.jpg": "./static/media/img-1.1a4201ad820918020ba4.jpg",
+    "static/media/popular-places-2.jpg": "./static/media/popular-places-2.c00d5e6d637a395dcfdc.jpg",
+    "static/media/img-7.jpg": "./static/media/img-7.86a0f101c5d77af08856.jpg",
+    "static/media/popular-places-3.jpg": "./static/media/popular-places-3.711cd6e86138c67377d8.jpg",
+    "static/media/popular-places-4.jpg": "./static/media/popular-places-4.0fccf67ad733fc7c2213.jpg",
+    "static/media/properties-9.jpg": "./static/media/properties-9.2ad249f586fb7df2f84a.jpg",
+    "static/media/properties-11.jpg": "./static/media/properties-11.a06d2f6d5660f64cd9c4.jpg",
+    "static/media/properties-12.jpg": "./static/media/properties-12.b5ca376094e41a8c6300.jpg",
+    "static/media/popular-places-5.jpg": "./static/media/popular-places-5.1fc172c497edc08fd3c0.jpg",
+    "static/media/blog-1.jpg": "./static/media/blog-1.03ae639204336d2611be.jpg",
+    "static/media/popular-places-6.jpg": "./static/media/popular-places-6.6b29034072dae7186860.jpg",
+    "static/media/properties-2.jpg": "./static/media/properties-2.5f002810ab6c419914dc.jpg",
+    "static/media/properties-1.jpg": "./static/media/properties-1.3512d48bb245d53b2416.jpg",
+    "static/media/popular-places-1.jpg": "./static/media/popular-places-1.e241a2ee95997117f617.jpg",
+    "static/media/logo-white.png": "./static/media/logo-white.d063823edd4c16eedbcc.png",
+    "static/media/project-logo.png": "./static/media/project-logo.0d57d0766bb36a37ccfd.png",
+    "static/media/sub-properties-2.jpg": "./static/media/sub-properties-2.323290e19ba1c1789ae4.jpg",
+    "static/media/down.png": "./static/media/down.33161dd8833de542b640.png",
+    "static/media/logo.png": "./static/media/logo.a890331e794b02e6f77b.png",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "./index.html",
+    "main.4630ee32.css.map": "./static/css/main.4630ee32.css.map",
+    "main.bb5519d1.js.map": "./static/js/main.bb5519d1.js.map",
+    "787.8e48d1dc.chunk.js.map": "./static/js/787.8e48d1dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4630ee32.css",
+    "static/js/main.bb5519d1.js"
+  ]
+}
